@@ -1,0 +1,20 @@
+name: airbnb-barcelona
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - scipy
+  - vega_datasets
+  - vega
+  - jupyterlab
+  - nodejs[version='>=10']
+  - numpy
+  - matplotlib
+  - notebook
+  - scikit-learn
+  - seaborn
+  - ipywidgets
+  - pandas
+  - altair
+  - geopandas

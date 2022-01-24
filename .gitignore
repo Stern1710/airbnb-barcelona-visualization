@@ -1,0 +1,5 @@
+**/.ipynb_checkpoints
+.idea
+data/calendar.csv
+data/04_InteractivePlotting.ipynb
+postBuild
