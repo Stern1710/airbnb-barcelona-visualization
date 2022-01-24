@@ -30,7 +30,7 @@ conda env create -f environment.yml
 Next, activate the created environment
 
 ```bash
-conda activate python-tutorial
+conda activate airbnb-barcelona
 ```
 
 Last of all, install jupyter lab
